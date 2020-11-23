@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "rejectServer": {
+    "returnCode": "0000",
+    "returnMsg": "请求错误，检查参数",
+    "status": "201"
   }
 }
